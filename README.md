@@ -1,15 +1,7 @@
 <div align="center">
   
-![Monitoring](https://github.com/user-attachments/assets/07610948-dc32-4650-877b-8fd243e7d120)
-
-
-
-
-
-
-
-
-
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ca774def-9384-4b8f-b0be-31f462bd0847" width="600"/>
+</div>
 
 </div>
