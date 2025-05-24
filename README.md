@@ -1,16 +1,15 @@
-## I Love Miku
+<div align="center">
+  
+![Monitoring](https://github.com/user-attachments/assets/07610948-dc32-4650-877b-8fd243e7d120)
 
-<!--
-**Miku-BF/Miku-BF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+</div>
